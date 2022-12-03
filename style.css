@@ -1,0 +1,42 @@
+.heading{
+    color: white;
+    text-align: center;
+    font-size: 44px;
+    font-family: 'Koulen', cursive;
+}
+.heading-div{
+   background-color: crimson;
+   padding: 10px;
+   margin: 0px;
+   box-shadow: 5px 5px 15px navy;
+}
+.subheading1{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Macondo', cursive;
+}
+.subheading2{
+    color: white;
+    font-size: 18px;
+    font-family: 'Macondo', cursive;
+    text-align: center;
+}
+
+.copyrightfooter {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    font-family: 'Macondo', cursive;
+    width : 100%;
+    background-color: crimson;
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 15px navy;
+}
+canvas{
+    border: 5px solid white;
+    box-shadow: 5px 5px 15px navy;
+    border-radius: 25px;
+    background-color: white;
+}
